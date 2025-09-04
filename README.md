@@ -1,7 +1,5 @@
 # API REST - Películas (Node.js + Express + MongoDB Atlas)
 
-Implementa los módulos: **Género, Director, Productora, Tipo y Media** (películas/series).
-
 ## Requisitos
 - Node.js 18+
 - Una base de datos MongoDB Atlas (o local)
@@ -20,10 +18,6 @@ npm run dev   # con nodemon
 # ó
 npm start
 ```
-
-Si todo va bien:
-- `http://localhost:4000/` -> `{"message":"API de Películas funcionando 🚀"}`
-
 ## Endpoints
 
 ### Géneros
