@@ -79,6 +79,5 @@ Si todo va bien:
 }
 ```
 
-## Notas
-- En producción crea usuarios de solo lectura/escritura con contraseñas seguras.
-- No subas el `.env` al repositorio.
+
+
